@@ -1,1 +1,12 @@
-{"web":{"client_id":"244421664088-3kcmb7nu4u3f30e977thkbjfof60so8f.apps.googleusercontent.com","project_id":"react-263813","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"c8_mrHtOyGurwQGsnfCYLnyU","redirect_uris":["http://localhost:4000/oauth2callback"],"javascript_origins":["http://localhost:4000"]}}
+
+{"web":
+    {
+    "client_id":"790282860845-7qhhu80pigrq3o9m1rbcss2ed00vls71.apps.googleusercontent.com",
+    "project_id":"upload-14402",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"YkRwdJSxMy5cL0GM6qN1G3Nb",
+    "redirect_uris":["http://localhost:4000/oauth2callback"]
+    }
+ }
